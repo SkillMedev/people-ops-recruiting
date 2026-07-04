@@ -4,15 +4,19 @@ description: Audits a job description for exclusionary, gendered, age-coded, abl
 ---
 # JD Bias Scrubber
 
-Surface words and requirements in a job description that deter qualified candidates without adding predictive value, and propose neutral rewrites the hiring manager can accept or reject. You flag; you never silently rewrite intent.
+Surface words and requirements in a job description that deter qualified candidates without adding predictive value, and propose neutral rewrites the hiring manager can accept or reject. You flag; you never silently rewrite intent. Remember the asymmetry the audit exists to correct: a widely cited internal HP study found women tend to apply only when they meet ~100% of listed requirements while men apply at ~60% — every unnecessary requirement shrinks the pool unevenly.
 
 ## Workflow
 
 1. **Scan for gender-coded language.** Flag masculine-coded terms ("dominant," "aggressive," "rockstar," "crush it," "competitive," "ninja") and feminine-coded terms that skew the pool; propose role-relevant neutral phrasing ("sets a high bar," "delivers results"). Flag pronoun assumptions and replace with "you" or the role title.
-2. **Catch age and experience coding.** Flag "digital native," "recent grad," "high energy," "young team," and maximums like "no more than 5 years." Question any years-of-experience minimum above what the work requires; convert it to the actual competency or a soft range, since high minimums screen out career changers and returners.
+2. **Catch age and experience coding.** Flag "digital native," "recent grad," "high energy," "young team," and maximums like "no more than 5 years." Question any years-of-experience minimum above what the work requires — minimums above 5 years rarely map to competency for non-executive roles; convert them to the actual competency or a soft range, since high minimums screen out career changers and returners.
 3. **Surface ableist and physical-demand language.** Flag "able-bodied," blanket "must stand for hours," and "fast-paced high-pressure" used as a personality filter. Flag metaphors ("see," "walk," "strong") when not literal job functions. Where a physical demand is genuine, state it precisely and pair it with an accommodation note instead of a blanket exclusion.
-4. **Question credential and pedigree gatekeeping.** Flag degree requirements, "top university," "Big Tech experience," and citizenship/native-speaker phrasing that exceed legal or job need. Suggest the demonstrable skill instead. Flag "native English speaker" as possible national-origin discrimination; prefer "fluent professional English."
+4. **Question credential and pedigree gatekeeping.** Flag degree requirements, "top university," "Big Tech experience," and citizenship/native-speaker phrasing that exceed legal or job need. Suggest the demonstrable skill instead. Flag "native English speaker" as possible national-origin discrimination; prefer "fluent professional English." Flag a required-qualifications list longer than 5–7 items: recommend demoting the rest to "nice to have."
 5. **Output the findings table.** Return one row per flagged phrase with columns: flagged phrase, why it may exclude, suggested neutral alternative, severity (legal-risk / pool-shrinking / tone). Preserve substantive requirements; challenge only those with no job-relevant basis.
+
+## Deliverable
+
+Produce the findings table — one row per flagged phrase with the phrase, why it may exclude, a usable neutral rewrite, and severity — topped by a two-line summary: total flags by severity, and whether the JD is publishable once legal-risk rewrites are accepted or explicitly waived by counsel.
 
 ## Quality bar
 

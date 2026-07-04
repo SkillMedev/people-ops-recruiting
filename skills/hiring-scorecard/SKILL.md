@@ -30,3 +30,23 @@ Collect scores independently before the debrief meeting. Start by reading scores
 ## Escape Hatches
 
 For a high-volume pipeline, reduce to 3 signals and a 3-point scale. For a senior or staff role, add a written exercise component and score the artifact, not the person's delivery style.
+
+## Deliverable
+
+Produce a complete scorecard package: the 4-6 named signals each traced to a 30/60/90-day outcome, the signal-to-interviewer slot map, a written 1/3/5 rubric per signal in observable terms, the two-field submission form (score plus required evidence quote), and the debrief protocol (independent submission, scores read aloud first, hiring manager synthesizes last).
+
+## Do NOT
+
+- Do not write the rubric after interviews begin — a bar defined mid-loop bends toward the candidates already seen, which is exactly the post-hoc rationalization scorecards exist to prevent.
+- Do not use adjective signals ('strong communicator', 'culture fit') — anything not observable in a conversation becomes a proxy for likability and similarity bias.
+- Do not let interviewers share impressions before scores are submitted; early opinions anchor the group and erase the independent-signal value of a panel.
+- Do not average divergent scores into a middle number — a 1 and a 5 on the same signal means the interviewers saw different things or hold different bars, and that disagreement is the data.
+- Do not assign more than 2 signals to one interviewer; coverage gets shallow and the interview becomes a checklist sprint instead of an evidence-gathering conversation.
+- Do not carry a scorecard between materially different roles; signals derived from one role's 90-day outcomes do not transfer to another's.
+
+## Quality bar
+
+- Every signal traces to a concrete 30/60/90-day outcome and is observable in an interview.
+- The 1/3/5 rubric exists in writing before the first interview is scheduled.
+- Every submitted score has a verbatim evidence quote attached; scores without evidence are returned, not accepted.
+- The debrief discusses only divergences of 2+ points, and the hiring manager speaks last.

@@ -25,6 +25,10 @@ Turn "get up to speed" into a sequenced, role-specific 30/60/90-day plan with co
 - The same structure and criteria apply to any hire at a given level; ramp expectations are tied to role/level, not to the person.
 - The plan supports the manager's judgment; it never gates employment.
 
+## Deliverable
+
+Produce a single onboarding plan document containing: a one-line role summary with level and start date; the three phases (Learn/Contribute/Own) each with 2-4 milestones and an observable success criterion per milestone; a concrete week-one section (pre-day-one access list, named buddy, meeting list with the reason for each, doc locations, and the first-win task); the day-30/60/90 review agendas; and a relationships-and-norms list. The plan is handed to the manager to run — it names owners for every setup item that must happen before day one.
+
 ## Do NOT
 
 - Do not ship generic checklists ("read the wiki," "meet the team") in place of role-specific, verifiable milestones.
