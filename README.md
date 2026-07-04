@@ -9,7 +9,7 @@ Reach for this when you own a req but have no recruiting team behind you and nee
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/people-ops-recruiting](https://skillme.dev/pack/people-ops-recruiting) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/people-ops-recruiting`
+- **With the skills CLI:** `npx skills add SkillMedev/people-ops-recruiting`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
