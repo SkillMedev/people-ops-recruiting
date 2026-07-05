@@ -2,7 +2,7 @@
 
 **For hiring managers without an HR team: run a fair, structured hire end to end.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-Reach for this when you own a req but have no recruiting team behind you and need every hire to be fair, consistent, and defensible. It runs the whole funnel as one connected system: source passive candidates, write an inclusive JD and scrub it for bias, screen resumes against a weighted rubric, build STAR question kits and interviewer scorecards, synthesize the debrief into a calibrated hire/no-hire call, send careful offers and respectful rejections, then stand up a 30/60/90 onboarding plan. Each stage works from shared, job-derived criteria, and every skill keeps a human as the decision-maker with explicit fairness bounds — so you move fast without cutting the corners that create bias or legal exposure.
+Reach for this when you own a req but have no recruiting team behind you and need every hire to be fair, consistent, and defensible. It runs the whole funnel as one connected system: source passive candidates, write an inclusive JD and scrub it for bias, screen resumes against a weighted rubric, build STAR question kits and interviewer scorecards, synthesize the debrief into a calibrated hire/no-hire call, send careful offers and respectful rejections, then stand up a 30/60/90 onboarding plan. Each stage works from shared, job-derived criteria, and every skill keeps a human as the decision-maker with explicit fairness bounds - so you move fast without cutting the corners that create bias or legal exposure.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
@@ -23,7 +23,7 @@ Reach for this when you own a req but have no recruiting team behind you and nee
 - **[Onboarding Plan Builder](skills/onboarding-plan-builder/SKILL.md)** — Produces a 30/60/90-day onboarding plan for a specific role with phased milestones, first-week setup, observable success criteria, and ramp reviews.
 - **[Interview Debrief Synthesizer](skills/interview-debrief-synthesizer/SKILL.md)** — Consolidates multiple interviewer scorecards into a calibrated hire/no-hire summary that foregrounds evidence, surfaces disagreement, and flags bias risks for a human panel.
 - **[Hiring Scorecard Builder](skills/hiring-scorecard/SKILL.md)** — Builds structured interview scorecards tied to role-specific signals to reduce bias and improve calibration.
-- **[Feedback Writer](skills/feedback-writer/SKILL.md)** — Drafts specific, observable, kind workplace feedback using the SBI model — Situation, Behavior, Impact — for both praise and correction.
+- **[Feedback Writer](skills/feedback-writer/SKILL.md)** — Drafts specific, observable, kind workplace feedback using the SBI model - Situation, Behavior, Impact - for both praise and correction.
 
 ## License
 
