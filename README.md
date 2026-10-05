@@ -1,16 +1,17 @@
 # People Ops & Recruiting Toolkit
 
-**For hiring managers without an HR team: run a fair, structured hire end to end.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For hiring managers without an HR team: run a fair, structured hire end to end.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-people-ops-recruiting).
 
 Reach for this when you own a req but have no recruiting team behind you and need every hire to be fair, consistent, and defensible. It runs the whole funnel as one connected system: source passive candidates, write an inclusive JD and scrub it for bias, screen resumes against a weighted rubric, build STAR question kits and interviewer scorecards, synthesize the debrief into a calibrated hire/no-hire call, send careful offers and respectful rejections, then stand up a 30/60/90 onboarding plan. Each stage works from shared, job-derived criteria, and every skill keeps a human as the decision-maker with explicit fairness bounds - so you move fast without cutting the corners that create bias or legal exposure.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/people-ops-recruiting](https://skillme.dev/pack/people-ops-recruiting) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/people-ops-recruiting?utm_source=github&utm_medium=readme&utm_campaign=pack-people-ops-recruiting) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add job-description-writer jd-bias-scrubber screening-rubric-builder interview-question-kit candidate-outreach-personalizer offer-rejection-writer onboarding-plan-builder interview-debrief-synthesizer hiring-scorecard feedback-writer --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/people-ops-recruiting`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -28,4 +29,4 @@ Reach for this when you own a req but have no recruiting team behind you and nee
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-people-ops-recruiting).
